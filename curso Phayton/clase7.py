@@ -1,5 +1,0 @@
-name = input("ingrese su nonmbre: ")
-print(name)
-print(type(name))
-age = int(input("ingrese su edad: "))
-print(type(age))
